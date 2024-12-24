@@ -1,5 +1,5 @@
 import 'package:latlong2/latlong.dart';
-import 'package:map_project2/models/model.dart';
+import 'package:map_project2/models/location_marker.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 

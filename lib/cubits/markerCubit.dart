@@ -7,7 +7,7 @@ import 'dart:developer';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:latlong2/latlong.dart';
-import 'package:map_project2/models/model.dart';
+import 'package:map_project2/models/location_marker.dart';
 import 'package:map_project2/services/sqlite/sqflite.dart';
 
 
