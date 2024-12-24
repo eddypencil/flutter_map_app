@@ -16,8 +16,8 @@ MapExplorer is a Flutter-based interactive map application that provides a seaml
 
 ## Screenshots
 
-![Screenshot_1735038814-portrait](https://github.com/user-attachments/assets/58e5627f-a550-4cae-be3a-7ee56d9fe7e1 | width=400)
-![Screenshot_1735038847-portrait](https://github.com/user-attachments/assets/187fc82f-6701-4967-8e7f-8893da2f8e0e | width=400)
+![Screenshot_1735038814-portrait](https://github.com/user-attachments/assets/58e5627f-a550-4cae-be3a-7ee56d9fe7e1)
+![Screenshot_1735038847-portrait](https://github.com/user-attachments/assets/187fc82f-6701-4967-8e7f-8893da2f8e0e)
 
 
 
